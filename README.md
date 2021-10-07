@@ -1,2 +1,2 @@
 # Calculator
-Simple Coding for Calculator (Python)
+Simple Code for Calculator (Python)
